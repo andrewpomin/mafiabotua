@@ -1,0 +1,1 @@
+worker: java -jar target/mafiabotua-1.0-RELEASE-jar-with-dependencies.jar
